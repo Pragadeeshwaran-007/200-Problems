@@ -1,5 +1,5 @@
 import java.util.*;
-public class TcsProblemOne{
+public class TcsProblemone{
     public static void main(String[] args) {
 
         Scanner s1 = new Scanner(System.in);
